@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+saya sedang menuju kelulusan Devnet Devasc Exam
+=======
+saya sedang menuju kelulusan Netacad Devasc Exam
+>>>>>>> konflik
+saya sudah mulai mengerti tentang git
+ini adalah modifikasi ditempat kedua
+ngulik dimaster
